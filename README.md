@@ -1,4 +1,4 @@
-# 📊 Linear Regression Project - Predictive Modeling with Python
+# 📊 Linear Regression Project - Predictive Modeling with python
 
 Welcome to the Linear Regression Project! This repository showcases a simple yet powerful machine learning project that demonstrates how linear regression can be used to make predictions based on historical data.
 
