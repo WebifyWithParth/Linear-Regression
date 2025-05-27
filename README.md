@@ -105,9 +105,14 @@ Deploy the model with a simple Flask or Streamlit web app
 🙌 Acknowledgements
 This project is inspired by basic machine learning tutorials and datasets provided by Kaggle and Scikit-learn.
 
-📬 Contact
-Parth Tyagi 
+
+
+Parth Tyagi
+
 📧 parthtyagi3389@gmail.com
+
 🔗 Linkedin-https://www.linkedin.com/in/parth-tyagi-768a1031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+
 ⭐ If you found this project helpful, feel free to star the repo and share it!
 
